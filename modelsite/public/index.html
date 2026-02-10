@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>JMJ Model</title>
+  <meta name="description" content="人才目錄、線上 casting、預約面談，一站完成。" />
+  <style>
+    :root{
+      --bg:#0B0B0B;
+      --text:#FFFFFF;
+      --muted:#B5B5B5;
+      --paper:#F0EEE9; /* PANTONE 11-4201 Cloud Dancer */
+      --text-paper:#0B0B0B;
+      --accent:#FF2B2B;
+      --accent2:#D41919;
+      --border:rgba(255,255,255,.12);
+      --radius:18px;
+      --shadow:0 18px 40px rgba(0,0,0,.45);
+    }
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--text);
+      font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Arial,sans-serif;}
+    a{color:inherit;text-decoration:none}
+    .wrap{max-width:1100px;margin:0 auto;padding:28px 18px}
+    .topbar{display:flex;align-items:center;justify-content:space-between;gap:16px;
+      border-bottom:1px solid var(--border);flex-wrap:wrap}
+    .brand{font-weight:800;letter-spacing:.18em;font-size:13px}
+    .menu{display:flex;gap:14px;font-weight:800;font-size:12px}
+    .menu a{padding:10px 0;border-bottom:1px solid transparent;opacity:.95}
+    .menu a:hover{border-bottom-color:var(--accent)}
+    .top-actions{display:flex;gap:10px;flex-wrap:wrap}
+    .btn{display:inline-flex;align-items:center;justify-content:center;padding:10px 12px;
+      border-radius:999px;border:1px solid var(--border);
+      background:rgba(255,255,255,0.02);color:var(--text);
+      font-weight:700;font-size:13px;cursor:pointer;user-select:none}
+    .btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+    .btn.primary:hover{background:var(--accent2);border-color:var(--accent2)}
+
+    .hero{margin-top:18px;border-radius:var(--radius);
+      background:linear-gradient(135deg, rgba(255,255,255,.02), rgba(255,255,255,0));
+      border:1px solid var(--border);box-shadow:var(--shadow);overflow:hidden}
+    .heroInner{display:grid;grid-template-columns:1fr;gap:18px;padding:18px}
+    .hero h1{margin:0;font-size:32px;line-height:1.08}
+    .hero p{margin:10px 0 0;font-size:13px;line-height:1.7;color:var(--muted)}
+    .heroImg{height:240px;border-radius:var(--radius);overflow:hidden;border:1px solid rgba(255,255,255,.1)}
+    .heroImg img{width:100%;height:100%;object-fit:cover;display:block;filter:saturate(0.95)}
+    .ctaRow{margin-top:14px;display:flex;gap:10px;flex-wrap:wrap}
+
+    .sectionTitle{margin:22px 0 10px;font-weight:900;font-size:15px;color:var(--muted);
+      text-transform:uppercase;letter-spacing:.08em}
+    .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px}
+    .card{border-radius:var(--radius);background:var(--paper);color:var(--text-paper);
+      padding:14px;border:1px solid rgba(11,11,11,.05);
+      box-shadow:0 10px 26px rgba(0,0,0,.28)}
+    .thumb{height:160px;border-radius:14px;overflow:hidden;border:1px solid rgba(11,11,11,.07)}
+    .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+    .tag{margin-top:8px;display:inline-block;font-size:12px;font-weight:800;color:rgba(11,11,11,.75)}
+    .card h3{margin:10px 0 6px;font-size:18px;line-height:1.1}
+    .card p{margin:0;font-size:13px;line-height:1.6;color:rgba(11,11,11,.7)}
+    .card .actions{margin-top:12px;display:flex;gap:10px;flex-wrap:wrap}
+    .card .btn{background:#fff;border:1px solid rgba(11,11,11,.08);color:#111}
+    .card .btn:hover{border-color:var(--accent2);color:var(--accent2)}
+
+    @media (min-width: 920px){
+      .heroInner{grid-template-columns:1.05fr 0.95fr;align-items:stretch}
+      .heroImg{height:auto}
+    }
+
+    .footer{margin-top:26px;color:var(--muted);font-size:12px;border-top:1px solid var(--border);
+      padding:18px}
+    .warn{margin:10px 0 0;font-size:12px;color:var(--muted);line-height:1.6}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="topbar">
+      <div class="brand">JMJ MODEL</div>
+      <nav class="menu" aria-label="主選單">
+        <a href="#talents">人才目錄</a>
+        <a href="#casting">提交 Casting</a>
+        <a href="#faq">FAQ</a>
+        <a href="#contact">聯絡</a>
+      </nav>
+      <div class="top-actions">
+        <a class="btn" href="/admin">Admin</a>
+      </div>
+    </header>
+
+    <section class="hero" id="top">
+      <div class="heroInner">
+        <div>
+          <h1>把對的人放到對的位置</h1>
+          <p>人才瀏覽、收藏、線上預約與材料管理都在同一個平臺。你只需要描述需求，剩下的由流程協助你完成。</p>
+          <div class="ctaRow">
+            <button class="btn primary" onclick="document.querySelector('#talents').scrollIntoView({behavior:'smooth'})">瀏覽人才</button>
+            <button class="btn" onclick="document.querySelector('#casting').scrollIntoView({behavior:'smooth'})">提交 casting</button>
+          </div>
+        </div>
+        <div class="heroImg" aria-label="示意圖">
+          <img alt="示意：時尚與商業攝影氛圍" src="https://images.unsplash.com/photo-1520975958223-279256f57e89?auto=format&fit=crop&w=1200&q=80" />
+        </div>
+      </div>
+    </section>
+
+    <div class="sectionTitle" id="talents">人才卡片（示意）</div>
+    <div class="cards" id="cards"></div>
+
+    <div class="sectionTitle" id="casting">提交 casting（示意）</div>
+    <div class="card">
+      <span class="tag">Casting 表單</span>
+      <h3>把需求講清楚，匹配才會準</h3>
+      <p>這裡放你的表單 / 工作流程：品牌名稱、需求描述、預算區間、拍攝日期、參考風格。</p>
+      <div class="actions">
+        <button class="btn" onclick="alert('示意：提交 casting（功能需配合後端 API 及 DB）')">提交</button>
+      </div>
+    </div>
+
+    <div class="sectionTitle" id="faq">FAQ</div>
+    <div class="card">
+      <span class="tag">常見問題</span>
+      <h3>我可以自己管理人才資料嗎？</h3>
+      <p>可以。登入 Admin 後台，新增人才檔案、維護 portfolio URL、設定可接案狀態。</p>
+    </div>
+
+    <div class="sectionTitle" id="contact">聯絡</div>
+    <div class="card">
+      <span class="tag">聯絡我們</span>
+      <h3>有合作需求？</h3>
+      <p>放你的聯絡 Email / WhatsApp / WeChat / 其他渠道。建議後續把「問問題」接到 /api/questions。</p>
+    </div>
+
+    <div class="footer">
+      JMJ Model © 2026 — 內容不可未經授權轉載或另作用途（示意文字）。
+      <div class="warn">圖片示意可先使用無版稅圖庫（Unsplash/Pexels/Pixabay），之後再替換成你有授權的模特肖像照片。</div>
+    </div>
+  </div>
+
+  <script>
+    const demoTalent = [
+      {
+        tag: "Lifestyle",
+        name: "Lia / 李雅",
+        bio: "乾淨俐落、可塑性高。適合情境品牌片與社群短影音。",
+        img: "https://images.unsplash.com/photo-1520975958223-279256f57e89?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        tag: "Commercial",
+        name: "Rae / 雷伊",
+        bio: "專長表情控制與鏡頭感，適合商業平面與美妝形象。",
+        img: "https://images.unsplash.com/photo-1506765515384-028b60a970df?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        tag: "Fashion",
+        name: "Tonnie / 陳彤彤",
+        bio: "適合 lookbook 與高對比視覺。",
+        img: "https://images.unsplash.com/photo-1515468381879-40d0ded81016?auto=format&fit=crop&w=600&q=80"
+      },
+      {
+        tag: "Runway",
+        name: "Chris / 克里斯",
+        bio: "走台控場穩健，擅長打造品牌走秀故事線。",
+        img: "https://images.unsplash.com/photo-1516594798947-e65505dbb29d?auto=format&fit=crop&w=600&q=80"
+      }
+    ];
+
+    document.getElementById('cards').innerHTML = demoTalent.map(t => `
+      <article class="card">
+        <div class="thumb"><img alt="${t.name}" src="${t.img}"></div>
+        <span class="tag">${t.tag}</span>
+        <h3>${t.name}</h3>
+        <p>${t.bio}</p>
+        <div class="actions">
+          <button class="btn" onclick="alert('示意：查看檔案')">查看檔案</button>
+          <button class="btn" onclick="alert('示意：加入收藏')">加入收藏</button>
+        </div>
+      </article>
+    `).join('');
+  </script>
+</body>
+</html>
