@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>People Directory ｜ JMJ</title>
+<style>
+:root{--bg:#0B0B0B;--paper:#F0EEE9;--text:#FFFFFF;--muted:#B5B5B5;--ink:#0B0B0B;--accent:#FF2B2B;--accent2:#D41919;--border:rgba(255,255,255,.12);--radius:16px;--shadow:0 18px 40px rgba(0,0,0,.45)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Arial,sans-serif}
+.wrap{max-width:1180px;margin:0 auto;padding:22px 16px}
+.topbar{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;border-bottom:1px solid var(--border);padding-bottom:10px}
+.brand{font-weight:900;letter-spacing:.14em;font-size:12px;text-transform:uppercase}
+.nav{display:flex;gap:16px;font-size:12px;font-weight:800;flex-wrap:wrap}
+.btn{display:inline-flex;align-items:center;justify-content:center;padding:10px 12px;border-radius:999px;border:1px solid var(--border);background:rgba(255,255,255,.02);font-weight:800;font-size:12px;cursor:pointer}
+.btn:hover{border-color:var(--accent);color:var(--accent)}
+.title{margin:16px 0 4px;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);font-weight:900}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(360px,1fr));gap:12px;margin-top:12px}
+.card{border-radius:var(--radius);background:var(--paper);color:var(--ink);box-shadow:0 12px 32px rgba(0,0,0,.28);overflow:hidden}
+.top{display:grid;grid-template-columns:1fr 1fr}
+.top img{width:100%;height:200px;object-fit:cover}
+.meta{padding:12px}
+.meta .line{display:flex;align-items:center;justify-content:space-between}
+.name{font-weight:900;font-size:15px}
+.tag{font-size:12px;font-weight:900;opacity:.6;text-transform:uppercase}
+.info{margin-top:6px;font-size:12px;color:rgba(11,11,11,.72);line-height:1.55}
+.agencies{margin-top:6px;font-size:12px;color:rgba(11,11,11,.75);line-height:1.7}
+</style>
+  <a href="/people.html">人才</a>
+
+</head>
+<body>
+<div class="wrap">
+<header class="topbar">
+<div class="brand">JMJ / PEOPLE DIRECTORY</div>
+<nav class="nav" aria-label="主選單">
+  <div class="navItem">支援 Support
+    <div class="mega">
+      <div class="megaGrid">
+        <section>
+          <h4>Support</h4>
+          <a href="#directory">專業會員</a>
+          <a href="#directory">模特經紀公司</a>
+          <a href="#directory">創意公司</a>
+          <a href="#directory">FAQ</a>
+          <a href="#directory">聯絡我們</a>
+          <a href="#directory">關於</a>
+        </section>
+        <section>
+          <h4>Community</h4>
+          <a href="#directory">搜尋人物</a>
+          <a href="#directory">經紀公司目錄</a>
+          <a href="#directory">作品探索</a>
+          <a href="#directory">收藏清單</a>
+        </section>
+        <section>
+          <h4>News</h4>
+          <a href="#directory">趨勢</a>
+          <a href="#directory">排行</a>
+          <a href="#directory">訪談</a>
+          <a href="#directory">新面孔</a>
+          <a href="#directory">精選清單</a>
+        </section>
+        <section>
+          <h4>Editorial</h4>
+          <a href="#directory">模特</a>
+          <a href="#directory">創意人才</a>
+          <a href="#directory">時尚</a>
+          <a href="#directory">美妝</a>
+          <a href="#directory">社會關懷</a>
+        </section>
+      </div>
+    </div>
+  </div>
+
+  <div class="navItem"><a href="/">首頁</a></div>
+  <div class="navItem"><a href="/people.html">人才</a></div>
+</nav>
+
+<div class="actions"><a class="btn" href="/admin">Admin</a></div>
+</header>
+<div class="title">台北 demo cards（Pexels + Unsplash）</div>
+<div class="grid" id="grid"></div>
+</div>
+<script>
+const talent=[
+{name:"Rae / 雷伊",category:"Model",region:"台北",stats:{hair:"Brown",eyes:"Brown",heightCm:174,heightFtIn:"5' 8.5\"",bwhCm:"86-61-81",bwhIn:"34-24-32",shoeUS:"7.5",shoeEU:"38"},agencies:[{city:"Taipei",name:"JMJ Placeholder Agency"}],pexels:{headshot:"https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&h=900",body:"https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&h=1200"},unsplash:{headshot:"https://images.unsplash.com/photo-1506765515384-028b60a970df?auto=format&fit=crop&w=900&q=80",body:"https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"}},
+{name:"Lia / 李雅",category:"Model",region:"台北",stats:{hair:"Black",eyes:"Brown",heightCm:179,heightFtIn:"5' 10.5\"",bwhCm:"76-58-86",bwhIn:"30-23-34",shoeUS:"9",shoeEU:"40"},agencies:[{city:"Taipei",name:"JMJ Placeholder Agency"}],pexels:{headshot:"https://images.pexels.com/photos/260682/pexels-photo-260682.jpeg?auto=compress&cs=tinysrgb&h=900",body:"https://images.pexels.com/photos/1450047/pexels-photo-1450047.jpeg?auto=compress&cs=tinysrgb&h=1200"},unsplash:{headshot:"https://images.unsplash.com/photo-1515468381879-40d0ded81016?auto=format&fit=crop&w=900&q=80",body:"https://images.unsplash.com/photo-1522451320070-0281f3de0f5d?auto=format&fit=crop&w=900&q=80"}},
+{name:"Chris / 克里斯",category:"Model",region:"台北",stats:{hair:"Blonde",eyes:"Blue",heightCm:176,heightFtIn:"5' 9.5\"",bwhCm:"79-58-91",bwhIn:"31-23-36",shoeUS:"7.5",shoeEU:"38"},agencies:[{city:"Taipei",name:"JMJ Placeholder Agency"}],pexels:{headshot:"https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&h=900",body:"https://images.pexels.com/photos/936120/pexels-photo-936120.jpeg?auto=compress&cs=tinysrgb&h=1200"},unsplash:{headshot:"https://images.unsplash.com/photo-1516594798947-e65505dbb29d?auto=format&fit=crop&w=900&q=80",body:"https://images.unsplash.com/photo-1517451330947-7809dead78d0?auto=format&fit=crop&w=900&q=80"}},
+{name:"Tonnie / 陳彤彤",category:"Model",region:"台北",stats:{hair:"Brown",eyes:"Blue/Green",heightCm:175,heightFtIn:"5' 9\"",bwhCm:"81-61-94",bwhIn:"32-24-37",shoeUS:"8",shoeEU:"39"},agencies:[{city:"Taipei",name:"JMJ Placeholder Agency"}],pexels:{headshot:"https://images.pexels.com/photos/842567/pexels-photo-842567.jpeg?auto=compress&cs=tinysrgb&h=900",body:"https://images.pexels.com/photos/297933/pexels-photo-297933.jpeg?auto=compress&cs=tinysrgb&h=1200"},unsplash:{headshot:"https://images.unsplash.com/photo-1520975958223-279256f57e89?auto=format&fit=crop&w=900&q=80",body:"https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=80"}}
+];
+const grid=document.getElementById("grid");
+function render(){grid.innerHTML=talent.map(x=>{const img=x.pexels;return `<article class="card"><div class="top"><img alt="${x.name} headshot" src="${img.headshot}"><img alt="${x.name} full body" src="${img.body}"></div><div class="meta"><div class="line"><div class="name">${x.name}</div><div class="tag">${x.category}</div></div><div class="info">${x.region}<br>Hair/Eyes：${x.stats.hair} / ${x.stats.eyes}<br>Height：${x.stats.heightCm} cm（${x.stats.heightFtIn}）<br>BWH：${x.stats.bwhCm}（${x.stats.bwhIn}）<br>Shoe：US ${x.stats.shoeUS} / EU ${x.stats.shoeEU}</div><div class="agencies">Agencies：${x.agencies.map(a=>a.city+" — "+a.name).join("<br>")}</div></div></article>`;}).join("");}
+render();
+</script>
+</body>
+</html>
